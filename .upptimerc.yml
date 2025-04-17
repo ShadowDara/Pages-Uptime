@@ -5,7 +5,7 @@ repo: Pages-Uptime # The name of this repository
 sites:
   - name: Shadowdara - Vercel
     url: https://shadowdara.vercel.app
-  - name: Wikipedia
+  - name: Repo Database Creator - Vercel
     url: https://repo-database-creator.vercel.app
 
 status-website:
