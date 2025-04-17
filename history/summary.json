@@ -22,17 +22,17 @@
     "url": "https://repo-database-creator.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/repo-database-creator.vercel.app.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   }
 ]
