@@ -1,6 +1,5 @@
-# Change these first
 owner: shadowdara
-repo: Pages-Uptime # The name of this repository
+repo: Pages-Uptime
 
 sites:
   - name: Shadowdara - Vercel
