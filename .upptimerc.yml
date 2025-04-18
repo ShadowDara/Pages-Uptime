@@ -6,6 +6,8 @@ sites:
     url: https://shadowdara.vercel.app
   - name: Repo Database Creator - Vercel
     url: https://repo-database-creator.vercel.app
+  - name: Shadowdara - Infinityfree
+    url: https://shadowdara.42web.io/
 
 status-website:
   baseUrl: /Pages-Uptime
