@@ -1,6 +1,6 @@
 # [📈 Live Status](https://shadowdara.github.io/Pages-Uptime): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [shadowdara(https://shadowdaragithub.io/Pages-Uptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [shadowdara](https://shadowdaragithub.io/Pages-Uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/shadowdara/Pages-Uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/shadowdara/Pages-Uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Response+Time+CI%22)
