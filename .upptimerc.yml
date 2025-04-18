@@ -8,6 +8,8 @@ sites:
     url: https://repo-database-creator.vercel.app/
   - name: Shadowdara - Infinityfree
     url: https://shadowdara.42web.io/
+  - name: no fucking CORS - Vercel
+    url: https://no-fucking-cors.vercel.app
 
 status-website:
   baseUrl: /Pages-Uptime
