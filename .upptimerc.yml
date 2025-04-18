@@ -8,8 +8,8 @@ sites:
     url: https://repo-database-creator.vercel.app/
   - name: Shadowdara - Infinityfree
     url: https://shadowdara.42web.io/
-  - name: github
-    url: https://github.com
+  - name: local
+    url: https://localhost
 
 status-website:
   baseUrl: /Pages-Uptime
