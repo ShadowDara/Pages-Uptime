@@ -2,11 +2,11 @@
 
 This repository contains the open-source uptime monitor and status page for [shadowdara(https://shadowdaragithub.io/Pages-Uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/shadowdara# Your GitHub organization or username, where this repository lives/Pages-Uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/shadowdara# Your GitHub organization or username, where this repository lives/Pages-Uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/shadowdara# Your GitHub organization or username, where this repository lives/Pages-Uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/shadowdara# Your GitHub organization or username, where this repository lives/Pages-Uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/shadowdara# Your GitHub organization or username, where this repository lives/Pages-Uptime/workflows/Summary%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/shadowdara/Pages-Uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/shadowdara/Pages-Uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://github.com/shadowdara/Pages-Uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://github.com/shadowdara/Pages-Uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://github.com/shadowdara/Pages-Uptime/workflows/Summary%20CI/badge.svg)](https://github.com/shadowdara/Pages-Uptime/actions?query=workflow%3A%22Summary+CI%22)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/shadowdara/Pages-Uptime/issues) as incident reports, [Actions](https://github.com/shadowdara/Pages-Uptime/actions) as uptime monitors, and [Pages](https://shadowdara.github.io/Pages-Uptime) for the status page.
 
